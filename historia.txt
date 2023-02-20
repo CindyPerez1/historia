@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hola soy Cindy y tengo tarea holaaaa vamos a ver que pasa
+=======
+Hola soy Cindy y tengo tarea holaaaa jala bola
+que vaina
+>>>>>>> cabecera
